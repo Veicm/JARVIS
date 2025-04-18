@@ -1,3 +1,4 @@
+# Docs: https://github.com/Veicm/JARVIS/wiki
 from generator import Generator
 from text_input import Text_Input
 from converter import Converter
